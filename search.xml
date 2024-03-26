@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2024/03/22/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>搭建自己的个人博客</title>
+    <url>/2024/03/26/%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h4 id="1、使用Github和Hexo搭建个人博客"><a href="#1、使用Github和Hexo搭建个人博客" class="headerlink" title="1、使用Github和Hexo搭建个人博客"></a>1、使用Github和Hexo搭建个人博客</h4><p>这里只需参考这篇博客即可搭建成功<br>参考网址：<a href="https://blog.csdn.net/sinat_37781304/article/details/82729029/">https://blog.csdn.net/sinat_37781304/article/details/82729029/</a></p>
+<h4 id="2、美化你的博客"><a href="#2、美化你的博客" class="headerlink" title="2、美化你的博客"></a>2、美化你的博客</h4><p>这里我做的改变有：主题变更，主页信息跟改，主要改的有站点_config.yml文件和主题_config.yml文件<br>参考网址：<a href="https://blog.csdn.net/weixin_43941364/article/details/104138726/?ops_request_misc=&request_id=&biz_id=102&utm_term=hexo%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A1%B5%E6%90%AD%E5%BB%BA&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-3-104138726.142%5Ev99%5Epc_search_result_base8&spm=1018.2226.3001.4187">https://blog.csdn.net/weixin_43941364/article/details/104138726/?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=hexo%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A1%B5%E6%90%AD%E5%BB%BA&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-3-104138726.142^v99^pc_search_result_base8&amp;spm=1018.2226.3001.4187</a></p>
+]]></content>
+      <tags>
+        <tag>博客</tag>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+</search>
